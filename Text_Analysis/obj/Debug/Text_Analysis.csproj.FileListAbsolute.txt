@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\bin\Debug\Text_Analysis.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\bin\Debug\Text_Analysis.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\bin\Debug\Text_Analysis.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\obj\Debug\Text_Analysis.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\obj\Debug\Text_Analysis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\obj\Debug\Text_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\obj\Debug\Text_Analysis.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Analysis\obj\Debug\Text_Analysis.pdb
